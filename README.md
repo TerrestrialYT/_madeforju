@@ -4,7 +4,7 @@ A bespoke, highly interactive single-page website built for **Made For Ju**, an 
 
 Designed with a warm, retro-boutique aesthetic, this project acts as a high-converting digital funnel, driving local customers directly to Instagram DMs for weekend pre-orders. 
 
-**Live Demo:** [View Live Site Here](https://terrestrialyt.github.io/YOUR-REPO-NAME-HERE) *(Update this link after enabling GitHub Pages)*
+**Live Demo:** [View Live Site Here](https://terrestrialyt.github.io/YOUR-REPO-NAME-HERE) 
 
 ## ✨ Premium Features & Interactivity
 
