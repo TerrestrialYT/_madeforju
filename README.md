@@ -4,7 +4,7 @@ A bespoke, highly interactive single-page website built for **Made For Ju**, an 
 
 Designed with a warm, retro-boutique aesthetic, this project acts as a high-converting digital funnel, driving local customers directly to Instagram DMs for weekend pre-orders. 
 
-**Live Demo:** [View Live Site Here]([https://terrestrialyt.github.io/YOUR-REPO-NAME-HERE](https://terrestrialyt.github.io/_madeforju/))
+**Live Demo:** [View Live Site Here](https://terrestrialyt.github.io/_madeforju/) 
 
 ## ✨ Premium Features & Interactivity
 
@@ -17,7 +17,7 @@ This site is built with a focus on tactile user experience and luxury digital ma
 * **Scarcity-Driven Copywriting:** Optimized micro-copy ("Secure Your Box", "The Weekend Drop") emphasizes exclusivity and drives immediate action.
 * **Bespoke UI Details:** Features a custom chocolate-brown scrollbar and text-selection highlight to maintain brand immersion.
 
-## 🛠️️ Tech Stack
+## 🛠 Tech Stack
 
 * **HTML5:** Semantic, SEO-optimized markup.
 * **Tailwind CSS:** Utility-first CSS framework (via CDN) for precise, responsive styling.
@@ -37,7 +37,7 @@ This project is built as a pure, single-file static website (`index.html`) optim
 6. Under "Branch", select `main` (or `master`), leave the folder as `/ (root)`, and click **Save**.
 7. Wait 1-2 minutes, and your live URL will appear at the top of the Pages settings screen.
 
-## 👨‍💻 Developer
+## 👨‍‍💻 Developer
 
 **Built by [TerrestrialYT](https://terrestrialyt.com/)**  
 If you are looking for custom, high-end web development, creative UI/UX design, and digital brand elevation, feel free to reach out.
